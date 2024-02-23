@@ -1,10 +1,27 @@
-# AngularFoodApp
-I undertook a project in Angular where I developed a food app.
-This application utilized Angular framework along with Bootstrap for styling and JSON format for the database.
-Notably, I opted to manually create the database rather than using MySQL or MongoDB. 
-The application comprised essential features such as registration, login, search, add to cart, remove from cart,
-and a comprehensive menu for food items.
-During the development of this project, I encountered various challenges, particularly in cracking certain logic instances. 
-Understanding and implementing the intricate logic required considerable time and effort.
-To overcome these challenges, I resorted to utilizing memory diagrams and extensively sought assistance from online resources such as Google and YouTube. 
-Through this process, I gained valuable insights into project flow and effectively utilized functional programming concepts like map, filter, and find functions.
+# Frontend
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
